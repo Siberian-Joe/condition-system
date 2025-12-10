@@ -1,0 +1,15 @@
+{
+  "name": "com.siberianjoe.conditionsystem",
+  "displayName": "Condition System",
+  "version": "0.1.0",
+  "unity": "6000.2.14f1",
+  "description": "",
+  "license": "MIT",
+  "author": {
+    "name": "Siberian-Joe",
+    "url": "https://github.com/Siberian-Joe"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "samples": []
+}
