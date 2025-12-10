@@ -1,0 +1,7 @@
+{
+  "name": "ConditionSystem.Runtime",
+  "rootNamespace": "ConditionSystem.Runtime",
+  "references": [],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

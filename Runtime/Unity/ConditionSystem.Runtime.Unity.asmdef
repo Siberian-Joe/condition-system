@@ -1,0 +1,9 @@
+{
+  "name": "ConditionSystem.Runtime.Unity",
+  "rootNamespace": "ConditionSystem.Runtime.Unity",
+  "references": [
+    "GUID:8904b04f6d8a409fa75394eb7d23e808"
+  ],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}
